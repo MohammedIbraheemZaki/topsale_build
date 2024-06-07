@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2841270.css",
+    "main.js": "/static/js/main.c657e79a.js",
+    "static/js/377.9a5415a5.chunk.js": "/static/js/377.9a5415a5.chunk.js",
+    "static/media/TopsaleLogo.png": "/static/media/TopsaleLogo.f5719d6d720e0bd4efff.png",
+    "static/media/1.png": "/static/media/1.90c63e15995a956148e5.png",
+    "static/media/3.png": "/static/media/3.3e389d58add00470af5a.png",
+    "static/media/2.png": "/static/media/2.8d163c4fe773fd990bfc.png",
+    "static/media/middle.png": "/static/media/middle.1705f9c33c9af739859c.png",
+    "static/media/adBanner.jpeg": "/static/media/adBanner.9c7431246fa1672b44a3.jpeg",
+    "static/media/appstore.png": "/static/media/appstore.e5f6e9053562c011d888.png",
+    "index.html": "/index.html",
+    "main.d2841270.css.map": "/static/css/main.d2841270.css.map",
+    "main.c657e79a.js.map": "/static/js/main.c657e79a.js.map",
+    "377.9a5415a5.chunk.js.map": "/static/js/377.9a5415a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2841270.css",
+    "static/js/main.c657e79a.js"
+  ]
+}
