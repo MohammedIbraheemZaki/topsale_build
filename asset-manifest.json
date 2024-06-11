@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d2841270.css",
-    "main.js": "/static/js/main.5bdba925.js",
+    "main.js": "/static/js/main.00e3ca34.js",
     "static/js/377.9a5415a5.chunk.js": "/static/js/377.9a5415a5.chunk.js",
     "static/media/TopsaleLogo.png": "/static/media/TopsaleLogo.f5719d6d720e0bd4efff.png",
     "static/media/1.png": "/static/media/1.90c63e15995a956148e5.png",
@@ -12,11 +12,11 @@
     "static/media/appstore.png": "/static/media/appstore.e5f6e9053562c011d888.png",
     "index.html": "/index.html",
     "main.d2841270.css.map": "/static/css/main.d2841270.css.map",
-    "main.5bdba925.js.map": "/static/js/main.5bdba925.js.map",
+    "main.00e3ca34.js.map": "/static/js/main.00e3ca34.js.map",
     "377.9a5415a5.chunk.js.map": "/static/js/377.9a5415a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2841270.css",
-    "static/js/main.5bdba925.js"
+    "static/js/main.00e3ca34.js"
   ]
 }
